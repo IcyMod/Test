@@ -10,4 +10,4 @@
 
 
 
-Copy and paste this into broswer >>> https://github.com/IcyMod/Host/blob/main/Hub
+Click this for script >>> https://github.com/IcyMod/Host/blob/main/Hub
